@@ -1,0 +1,6 @@
+{
+  "name": "Fourier Lab",
+  "description": "Fourier Series & Signal Analysis — Interactive laboratory workstation for waveform synthesis, harmonic decomposition, and Dirichlet approximation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
